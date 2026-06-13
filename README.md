@@ -54,3 +54,8 @@ rather than a purely descriptive one.
 - `Q1-Q3 analysis.xlsx` — category and sub-category profitability
 - `Q4-Q6 analysis.xlsx` — product-level loss-makers and low-margin items
 - `Q7 analysis.xlsx` — top profit-contributing products
+
+## Files
+- `Sales Analysis.xlsx` — single workbook containing:
+  - Raw data sheet
+  - Sheet 2-5: Analysis for Q1-Q7 (pivot tables, charts, and findings)
